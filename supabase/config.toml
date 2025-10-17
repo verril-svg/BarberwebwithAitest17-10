@@ -1,0 +1,7 @@
+project_id = "uqrydyvshggjrryykuaq"
+
+[functions.analyze-hairstyle]
+verify_jwt = false
+
+[functions.random-hairstyle-recommendations]
+verify_jwt = false
